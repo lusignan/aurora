@@ -8,7 +8,7 @@
         "vscode": "^1.46.0"
     },
     "repository": {
-        "url": "https://github.com/lusignan/aurora-vscode.git",
+        "url": "https://github.com/lusignan/aurora.git",
         "type": "git"
     },
     "categories": [
