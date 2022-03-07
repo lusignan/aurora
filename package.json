@@ -1,0 +1,21 @@
+{
+    "name": "aurora",
+    "displayName": "Aurora",
+    "description": "A dark theme inspired by the Northern Lights",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aurora",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aurora-color-theme.json"
+            }
+        ]
+    }
+}
