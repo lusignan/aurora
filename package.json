@@ -2,6 +2,7 @@
     "name": "aurora",
     "displayName": "Aurora",
     "description": "A dark theme inspired by the Northern Lights",
+    "publisher": "lusignan",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.46.0"
